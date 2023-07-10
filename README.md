@@ -14,7 +14,7 @@ El notebook "Entrenamiento y prueba de modelos.ipynb" contiene el código utiliz
 
 3 MLP
 
-En "DataSetDepuradoVsAll_por_HSV_TotalDepurado_Todas_Características.npy" Contiene todas las características extraídas, para el entrenamiento de los modelos se utilizó.
+En "DataSetDepuradoVsAll_por_HSV_TotalDepurado_Todas_Características.npy" Contiene todas las características extraídas., Para el entrenamiento y prueba de los modelos se utilizó.
 
 1 Canales de color HSV.
 
